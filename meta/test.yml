@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: role3
+  author: Resara
+  description: Desc
+  company: Virtusa
+  issue_tracker_url: github.com
+  license: '1111'
+  min_ansible_version: v1.0.0
+  min_ansible_container_version: v1.0.0
+  github_branch: main
+  galaxy_tags:
+    - tag1
+    - tag2
+  platforms:
+    - name: windows
+      versions:
+        - all
+dependencies: []
